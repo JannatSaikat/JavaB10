@@ -1,4 +1,4 @@
-package jun06;
+package jun11;
 
 public class WhileLoop4 {
     public static void main(String[] args) {

@@ -1,15 +1,10 @@
-package jun06;
+package jun12;
 
-public class WhileLoop3 {
+public class ForLoop2 {
 
     public static void main(String[] args) {
-
-        int a = 10;
-
-        while(a<=15){
+        for(int i = 1; i < 11; i++){
             System.out.println("Java");
-            a++;
         }
-
     }
 }
